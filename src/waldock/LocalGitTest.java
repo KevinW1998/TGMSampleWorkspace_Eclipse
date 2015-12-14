@@ -7,6 +7,9 @@ public class LocalGitTest {
 		System.out.println("Hello World 2!");
 		System.out.println("Hello World 3!");
 		
+		System.out.println("Hello World from another branch!");
+		
+		
 	}
 
 }
